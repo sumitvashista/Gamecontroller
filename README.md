@@ -2,7 +2,7 @@
 <i>Machine learning, image processing and control the game</i>
 <br>
 <br>
-<div align=”center”><img src="https://github.com/sumitvashista/Gamecontroller/blob/master/sample.jpg" width="540"></div>
+<div align=”center”>img src="https://github.com/sumitvashista/Gamecontroller/blob/master/sample.jpg" width="540"</div>
 
 ## Gesture Control Gaming 
 
