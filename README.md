@@ -1,4 +1,4 @@
-<div align=”center”> # Gamecontroller </div>
+# Gamecontroller
 <i>Machine learning, image processing and control the game</i>
 <br>
 <br>
