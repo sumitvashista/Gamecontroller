@@ -1,0 +1,12 @@
+  
+For running this project you'll require the following setup:
+1. Anaconda with a python 3.7 environment
+2. Install the openCV library 
+3. Install the imutils library. You'll have to do a conda install for that
+4. Install pyobjc-framework-Quartz library
+
+Doing this shall get your setup ready!
+setuptools~=49.2.0
+opencv-python~=4.3.0.36
+numpy~=1.19.0
+imutils~=0.5.3
