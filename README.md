@@ -1,8 +1,8 @@
-# Gamecontroller<center>
+<div align=”center”> # Gamecontroller </div>
 <i>Machine learning, image processing and control the game</i>
 <br>
 <br>
-<img src="https://github.com/sumitvashista/Gamecontroller/blob/master/sample.jpg" width="540" align=”center”>
+<img src="https://github.com/sumitvashista/Gamecontroller/blob/master/sample.jpg" width="540">
 
 ## Gesture Control Gaming 
 
